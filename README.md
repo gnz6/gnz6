@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 Contact 📫
 
 <div style="display:box">
-   <p>Email<h4 style="bold"><mailto:gonzalopirovano1@gmail.com></h4> </p> 
+   <p>Email<h4 style="bold"><mailto:gonzalopirovano1@gmail.com>gonzalopirovano1@gmail.com</h4> </p> 
    <a href="https://www.linkedin.com/in/gonzalo-pirovano/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" alt="linkedinIcon" width="50px"> <p> LinkdedIn</p> </a>
 </div>
