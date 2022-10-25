@@ -29,7 +29,7 @@
 <img src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" width="60px"/>
 <br></br>
  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="60px" />
- <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mapx.png" width="60px"/>
+ <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="60px"/>
  <img src="https://railway.app/brand/logo-dark.png" width="60px" />
 <img src="https://www.jorgeagoiz.es/favicon.ico" width="60px"/>
  <img src="https://static-00.iconduck.com/assets.00/postman-icon-497x512-beb7sy75.png" width="60px"/>
