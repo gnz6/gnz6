@@ -17,9 +17,20 @@
 <div>
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="js" width="50px"/>
    <p>JavaScript</p>
-</div
+</div>
+
+<div>
+<img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="html" width="50px"/>
+   <p>HTML5</p>
+</div>
+
+<div>
+<img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="html" width="50px"/>
+   <p>CSS3</p>
+</div>
 
 
+<hr></hr>
 
 <h3 style="font-weight:bold"> Contact 📫</h3>
 
