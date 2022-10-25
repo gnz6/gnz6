@@ -49,6 +49,16 @@ This app was made with: Node | Express | Mongoose | MongoDB | React | Redux-tool
 •<a href="https://github.com/Frann24/ArchiHub-Front">Link to FrontEnd repository</a>
 <br></br>
 •<a href="https://arquihub.vercel.app/">Link to Deploy </a>
+
+Arquihub Team : 
+<ul>
+<li><a href="https://github.com/IvoAl">Ivo Alegre </a></li>
+<li><a href="https://github.com/BalbianoLuciano">Luciano Balbiano </a></li>
+<li><a href="https://github.com/pcelman">Paula Celman </a></li>
+<li><a href="https://github.com/sediaz84">Sebastián Díaz </a></li>
+<li><a href="https://github.com/Frann24">Franco Ferreyra </a></li>
+<li><a href="https://github.com/Jvmpers">Tomás Pastore </a></li>
+</ul>
 <br></br>
 
 <h4 style="font-weight:bold">• Go! GlobeWiki(HenryCountries) 🌎 </h4>
