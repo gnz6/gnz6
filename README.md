@@ -21,7 +21,9 @@
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="js" width="20px"/>
    <p>JavaScript</p>
    </div>
+   <div>
 • HTML 5<img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="html" width="20px"/>
+   </div>
 • CSS3 <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="css" width="20px"/>
 • Tailwind <img src="https://tailwindcss.com/_next/static/media/social-square.eab77323.jpg" width="20px"/>
 • React <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="20px"/>
