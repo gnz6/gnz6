@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <hr></hr>
-<h2 style="font-weight:semi-bold">Hi! My name is Gonzalo Pirovano, and i´m a FullStack Developer looking for my first job in the IT area 👓💻</h2>
+<h2 >Hi! my name is Gonzalo Pirovano, and currently i am looking for my first job as a FullStack Developer💻</h2>
 
 <h3 style="font-weight:bold"> • About Me 👀</h3>
 
