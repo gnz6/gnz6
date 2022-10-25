@@ -76,6 +76,15 @@ Screenshots:
 GlobeWiki is an SPA focused on world countries consuming the Rest API from <a href="restcountries.com">restcountries.com</a> where you cannot use the endpoints given by de url, creating filters and activities for the countries.
 This app was made with : Node | Express | Sequelize | PostgresSQL | React | Redux | CSS
 <br></br>
+Screenshots:
+<br></br>
+<img src="https://user-images.githubusercontent.com/102692082/197883890-49afabec-c5dc-4386-aaf6-f5fa5ce170b3.png" alt="screen" style="width:150px height:100px"/>
+<img src="https://user-images.githubusercontent.com/102692082/197883886-a9372590-d637-4fd3-a28b-f5d8122abea8.png" alt="screen" style="width:150px height:100px"/>
+<img src="https://user-images.githubusercontent.com/102692082/197883875-86dbb1e3-fab8-4bda-8e2f-ebe7fb1904cd.png" alt="screen" style="width:150px height:100px"/>
+<img src="https://user-images.githubusercontent.com/102692082/197883871-1fe65f9f-5e8c-4635-ae86-b051584df0c2.png" alt="screen" style="width:150px height:100px"/>
+<img src="https://user-images.githubusercontent.com/102692082/197883864-b395a69f-1cd2-4638-8111-77f7ef7e3608.png" alt="screen" style="width:150px height:100px"/>
+
+
 <a href="https://github.com/gnz6/pi-Countries">Link to repository</a>
 <br></br>
 
