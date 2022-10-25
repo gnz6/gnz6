@@ -16,8 +16,7 @@
 <h3 style="font-weight:bold" > 🛠 Languages and Tools: </h3>
 
 <div class="special-class" markdown="1">
-   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="js" width="10px"/>
-   <p>JavaScript</p>
+   • JavaScript <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="js" width="20px"/>
    
    <div class="special-class" markdown="1">
 <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="html" width="50px"/>
