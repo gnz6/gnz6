@@ -28,13 +28,12 @@
 <img src="https://img.icons8.com/color/480/mongodb.png" width="60px"/>
 <img src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" width="60px"/>
 
-   <br></br>
  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="60px" />
  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mapx.png" width="60px"/>
  <img src="https://railway.app/brand/logo-dark.png" width="60px" />
-<img src="https://www.jorgeagoiz.es/favicon.ico" width="50px"/>
+<img src="https://www.jorgeagoiz.es/favicon.ico" width="60px"/>
  <img src="https://static-00.iconduck.com/assets.00/postman-icon-497x512-beb7sy75.png" width="60px"/>
-<img src="https://camo.githubusercontent.com/a86a8278da4c5b5a43330e1ea28e6ba050007a837128b5dff5b35d5ff0f1248a/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f313630302f312a365867664443566e3831415958363858766432492d674032782e706e67" width="50px"/>
+<img src="https://camo.githubusercontent.com/a86a8278da4c5b5a43330e1ea28e6ba050007a837128b5dff5b35d5ff0f1248a/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f313630302f312a365867664443566e3831415958363858766432492d674032782e706e67" width="60px"/>
 
 </div>
 
