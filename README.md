@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there. 👋
 
 <!--
 **gnz6/gnz6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 Contact 📫
 
 <div style="display:box">
-   <p>Email  <h4 style="bold"> <a href="mailto:gonzalopirovano1@gmail.com">gonzalopirovano1@gmail.com</a>  </h4></p> 
+   <a href="mailto:gonzalopirovano1@gmail.com"> <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/1280px-Gmail_Icon_%282013-2020%29.svg.png)" alt="linkedinIcon" width="50px"> gonzalopirovano1@gmail.com</a> 
    <a href="https://www.linkedin.com/in/gonzalo-pirovano/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" alt="linkedinIcon" width="50px"> <p> LinkdedIn</p> </a>
 </div>
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/1280px-Gmail_Icon_%282013-2020%29.svg.png
