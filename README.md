@@ -1,4 +1,4 @@
-### Hello there 👋🏼 <img src="https://emojis.slackmojis.com/emojis/images/1482947228/1532/lightsaber.png" alt="ligthsaber" width="25px"/> 
+### Hello there 👋🏼 <img src="https://emojis.slackmojis.com/emojis/images/1482947228/1532/lightsaber.png" alt="ligthsaber" width="20px"/> 
 
 <!--
 **gnz6/gnz6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
