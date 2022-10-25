@@ -1,5 +1,5 @@
 ###
-<h1>Hello there! i´m Gonzalo 👨🏻‍💻 <img src="https://emojis.slackmojis.com/emojis/images/1482947228/1532/lightsaber.png" alt="ligthsaber" width="25px"/> </h1>
+<h2>Hello there! i´m Gonzalo 👨🏻‍💻 <img src="https://emojis.slackmojis.com/emojis/images/1482947228/1532/lightsaber.png" alt="ligthsaber" width="30px"/> </h2>
 <!--
 **gnz6/gnz6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 -->
 <hr></hr>
 <h3 align="center">Hi! my name is Gonzalo Pirovano, and currently i am looking for my first job as a FullStack Developer💻</h3>
-
+ • Currently i am looking for my first job as a FullStack Developer 💻
 <h3 style="font-weight:bold"> • About Me 👀</h3>
 
 <h3 style="font-weight:bold"> • Contact 📫</h3>
