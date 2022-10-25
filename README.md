@@ -44,11 +44,6 @@
 Arquihub its an application for Architects where they can store, upgrade and share their projects and posts with the community!
 This app was made with: Node | Express | Mongoose | MongoDB | React | Redux-toolkit | Tailwind  
 <br></br>
-•<a href="https://github.com/BalbianoLuciano/backend-arquihub">Link to BackEnd repository</a>
-<br></br>
-•<a href="https://github.com/Frann24/ArchiHub-Front">Link to FrontEnd repository</a>
-<br></br>
-•<a href="https://arquihub.vercel.app/">Link to Deploy </a>
 
 Arquihub Team : 
 <ul>
@@ -59,6 +54,21 @@ Arquihub Team :
 <li><a href="https://github.com/Frann24">Franco Ferreyra </a></li>
 <li><a href="https://github.com/Jvmpers">Tomás Pastore </a></li>
 </ul>
+
+Screenshots:
+<img src="https://user-images.githubusercontent.com/102692082/197881745-bad6f0d8-a542-4e0c-a020-c63a50660161.jpeg" alt="screen" style="width:400px"/>
+<img src="https://user-images.githubusercontent.com/102692082/197881747-043a922f-8385-4424-8073-ce6b4190c84c.jpeg" alt="screen" style="width:400px"/>
+<img src="https://user-images.githubusercontent.com/102692082/197881748-9a46b939-00fe-4a8d-a78b-0c9acbe41071.jpeg" alt="screen" style="width:400px"/>
+<img src="https://user-images.githubusercontent.com/102692082/197881751-c32d7120-b418-4461-87df-4aab4d741ddb.jpeg" alt="screen" style="width:400px"/>
+<img src="https://user-images.githubusercontent.com/102692082/197881752-b7453800-0b93-4228-b98c-75b171172193.jpeg" alt="screen" style="width:400px"/>
+
+
+•<a href="https://github.com/BalbianoLuciano/backend-arquihub">Link to BackEnd repository</a>
+<br></br>
+•<a href="https://github.com/Frann24/ArchiHub-Front">Link to FrontEnd repository</a>
+<br></br>
+•<a href="https://arquihub.vercel.app/">Link to Deploy </a>
+
 <br></br>
 
 <h4 style="font-weight:bold">• Go! GlobeWiki(HenryCountries) 🌎 </h4>
