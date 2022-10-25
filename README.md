@@ -17,7 +17,10 @@
 
 <div class="special-class" markdown="1">Lenguages:
 <br></br>
-• JavaScript <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="js" width="20px"/>
+<div>
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="js" width="20px"/>
+   <p>JavaScript</p>
+   </div>
 • HTML 5<img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="html" width="20px"/>
 • CSS3 <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="css" width="20px"/>
 • Tailwind <img src="https://tailwindcss.com/_next/static/media/social-square.eab77323.jpg" width="20px"/>
