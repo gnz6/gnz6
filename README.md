@@ -35,12 +35,12 @@
    <h4 style="font-weight:bold">Tools:</h4>
 
    <br></br>
- <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="40px" />Git
- <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mapx.png" width="40px"/>
- <img src="https://railway.app/brand/logo-dark.png" width="40px"/>
-• Vercel<img src="https://www.jorgeagoiz.es/favicon.ico" width="20px"/>
-• Postman <img src="https://static-00.iconduck.com/assets.00/postman-icon-497x512-beb7sy75.png" width="20px"/>
-• Figma <img src="https://camo.githubusercontent.com/a86a8278da4c5b5a43330e1ea28e6ba050007a837128b5dff5b35d5ff0f1248a/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f313630302f312a365867664443566e3831415958363858766432492d674032782e706e67" width="20px"/>
+ <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="50px" />
+ <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mapx.png" width="50px"/>
+ <img src="https://railway.app/brand/logo-dark.png" width="50px"/>
+<img src="https://www.jorgeagoiz.es/favicon.ico" width="50px"/>
+ <img src="https://static-00.iconduck.com/assets.00/postman-icon-497x512-beb7sy75.png" width="50px"/>
+<img src="https://camo.githubusercontent.com/a86a8278da4c5b5a43330e1ea28e6ba050007a837128b5dff5b35d5ff0f1248a/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f313630302f312a365867664443566e3831415958363858766432492d674032782e706e67" width="50px"/>
 
 </div>
 
