@@ -18,7 +18,7 @@
 <div class="special-class" markdown="1">
 <h4 style="font-weight:bold">Lenguages:</h4>
 <br></br>
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="js" width="40px"/><p> JavaScript -</p>
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="js" width="40px"/>JavaScript -
 <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="html" width="20px"/> Html -
 • CSS3 <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="css" width="20px"/>
 • Tailwind <img src="https://tailwindcss.com/_next/static/media/social-square.eab77323.jpg" width="20px"/>
