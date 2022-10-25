@@ -42,6 +42,10 @@
 <h4 style="font-weight:bols">ArquiHub 📐✏</h4>
 <h4 style="font-weight:bols">Go! GlobeWiki(HenryCountries) 🌎 </h4>
 <h4 style="font-weight:bols">Bricks & Buckets 🏀📝</h4>
+Bricks & Buckets is a noteApp for basketball players to record own gamestats and have an game averarge based on the registered games
+This app was made with: Node | Express | Express-Handlebars | Boostrap | Passport
+<a href="https://github.com/gnz6/Bricks-Buckets">Link to repository</a>
+<br></br>
 <h4 style="font-weight:bols">Wheather App 🌥🌩❄🌤</h4>
 
 
