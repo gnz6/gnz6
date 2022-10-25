@@ -73,8 +73,8 @@ Bricks & Buckets is a noteApp for basketball players to record own gamestats and
 This app was made with: Node | Express | Express-Handlebars | Boostrap | Passport
 <br></br>
 Screenshots:
-<img src="https://user-images.githubusercontent.com/102692082/197878622-49ce9372-e17d-4c7c-84d6-666abf3f25ee.png" alt="screen" style="width:500px"/>
-<img src="https://user-images.githubusercontent.com/102692082/197878415-ddcf341d-75d2-48c7-8a65-6fa4f78952c7.png" alt="screen" style="width:500px"/>
+<img src="https://user-images.githubusercontent.com/102692082/197878622-49ce9372-e17d-4c7c-84d6-666abf3f25ee.png" alt="screen" style="width:400px"/>
+<img src="https://user-images.githubusercontent.com/102692082/197878415-ddcf341d-75d2-48c7-8a65-6fa4f78952c7.png" alt="screen" style="width:400px"/>
 
 
 <a href="https://github.com/gnz6/Bricks-Buckets">Link to repository</a>
@@ -83,6 +83,13 @@ Screenshots:
 HenryGames is an SPA focused on videogames consuming the Rest API from <a href="rawg.io">rawg.io</a> where you cannot use the endpoints given by de api, creating filters and new games.
 This app was made with : Node | Express | Sequelize | PostgresSQL | React | Redux | CSS
 <br></br>
+Screenshots:
+<img src="https://user-images.githubusercontent.com/102692082/197880981-3c1a2ad3-c9fb-4e68-884b-d92ee4397996.png" alt="screen" style="width:400px"/>
+<img src="https://user-images.githubusercontent.com/102692082/197880988-ceb326aa-cc2d-4336-bd7f-4c143c0aad4f.png" alt="screen" style="width:400px"/>
+<img src="https://user-images.githubusercontent.com/102692082/197880990-43362cf5-e6e0-4e49-9f48-75b26ea30365.png" alt="screen" style="width:400px"/>
+<img src="https://user-images.githubusercontent.com/102692082/197880996-695e0aba-8bca-4497-a069-e01427b2fd56.png" alt="screen" style="width:400px"/>
+<img src="https://user-images.githubusercontent.com/102692082/197880998-bb31520c-60ec-4fbd-937d-2249e67bbccf.png" alt="screen" style="width:400px"/>
+
 <a href="https://github.com/gnz6/pi">Link to repository</a>
 <br></br>
 
