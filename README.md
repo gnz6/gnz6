@@ -40,7 +40,7 @@
 <hr></hr>
 <h3 style="font-weight:bold">📌My Projects:</h3>
 
-<h4 style="font-weight:bols">ArquiHub 📐✏</h4>
+<h4 style="font-weight:bols">• ArquiHub 📐✏</h4>
 Arquihub its an application for Architects where they can store, upgrade and share their projects and posts with the community!
 This app was made with: Node | Express | Mongoose | MongoDB | React | Redux-toolkit | Tailwind  
 <br></br>
@@ -51,20 +51,20 @@ This app was made with: Node | Express | Mongoose | MongoDB | React | Redux-tool
 •<a href="https://arquihub.vercel.app/">Link to Deploy </a>
 <br></br>
 
-<h4 style="font-weight:bold">Go! GlobeWiki(HenryCountries) 🌎 </h4>
+<h4 style="font-weight:bold">• Go! GlobeWiki(HenryCountries) 🌎 </h4>
 GlobeWiki is an SPA focused on world countries consuming the Rest API from <a href="restcountries.com">restcountries.com</a> where you cannot use the endpoints given by de url, creating filters and activities for the countries.
 This app was made with : Node | Express | Sequelize | PostgresSQL | React | Redux | CSS
 <br></br>
 <a href="https://github.com/gnz6/pi-Countries">Link to repository</a>
 <br></br>
 
-<h4 style="font-weight:bold">Bricks & Buckets 🏀📝</h4>
+<h4 style="font-weight:bold">• Bricks & Buckets 🏀📝</h4>
 Bricks & Buckets is a noteApp for basketball players to record own gamestats and have an game averarge based on the registered games
 This app was made with: Node | Express | Express-Handlebars | Boostrap | Passport
 <br></br>
 <a href="https://github.com/gnz6/Bricks-Buckets">Link to repository</a>
 <br></br>
-<h4 style="font-weight:bold">Henry Games 🎮🕹</h4>
+<h4 style="font-weight:bold">• Henry Games 🎮🕹</h4>
 HenryGames is an SPA focused on videogames consuming the Rest API from <a href="rawg.io">rawg.io</a> where you cannot use the endpoints given by de api, creating filters and new games.
 This app was made with : Node | Express | Sequelize | PostgresSQL | React | Redux | CSS
 <br></br>
