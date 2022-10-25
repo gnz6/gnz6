@@ -57,12 +57,12 @@ Arquihub Team :
 
 Screenshots:
 <br></br>
-<img src="https://user-images.githubusercontent.com/102692082/197881745-bad6f0d8-a542-4e0c-a020-c63a50660161.jpeg" alt="screen" style="width:150px height:100px"/>
-<img src="https://user-images.githubusercontent.com/102692082/197886193-a83f8c68-b151-4d3b-a093-f307530a526b.png" alt="screen" style="width:150px height:100px"/>
-<img src="https://user-images.githubusercontent.com/102692082/197886196-282e77c7-4976-4d94-98cb-1a07869c15ce.png" style="width:150px height:100px"/>
-<img src="https://user-images.githubusercontent.com/102692082/197886198-531b7c6a-bb61-4bfe-b863-9e1780639a7a.png" alt="screen" style="width:150px height:100px"/>
-<img src="https://user-images.githubusercontent.com/102692082/197886199-e95bc9e6-7ad9-40ca-8eec-fa079934523e.png" alt="screen" style="width:150px height:100px"/>
-<img src="https://user-images.githubusercontent.com/102692082/197886203-78a29343-bf81-4391-9c78-2864b170b526.png" alt="screen" style="width:150px height:100px"/>
+<img src="https://user-images.githubusercontent.com/102692082/197881745-bad6f0d8-a542-4e0c-a020-c63a50660161.jpeg" alt="screen" style="width:100px"/>
+<img src="https://user-images.githubusercontent.com/102692082/197886193-a83f8c68-b151-4d3b-a093-f307530a526b.png" alt="screen" style="width:100px"/>
+<img src="https://user-images.githubusercontent.com/102692082/197886196-282e77c7-4976-4d94-98cb-1a07869c15ce.png" style="width:100px"/>
+<img src="https://user-images.githubusercontent.com/102692082/197886198-531b7c6a-bb61-4bfe-b863-9e1780639a7a.png" alt="screen" style="width:100px"/>
+<img src="https://user-images.githubusercontent.com/102692082/197886199-e95bc9e6-7ad9-40ca-8eec-fa079934523e.png" alt="screen" style="width:100px"/>
+<img src="https://user-images.githubusercontent.com/102692082/197886203-78a29343-bf81-4391-9c78-2864b170b526.png" alt="screen" style="width:100px"/>
 
 
 •<a href="https://github.com/BalbianoLuciano/backend-arquihub">Link to BackEnd repository</a>
