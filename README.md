@@ -17,23 +17,23 @@
 
 <div class="special-class" markdown="1">
 <br></br>
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="js" width="30px"/> JavaScript -
-<img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="html" width="30px"/> Html -
-<img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="css" width="20px"/>
-<img src="https://tailwindcss.com/_next/static/media/social-square.eab77323.jpg" width="20px"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="20px"/>
-<img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" width="20px"/>
-<img src="https://cdn0.iconfinder.com/data/icons/designer-skills/128/node-js-512.png" width="20px"/>
-<img src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" width="20px"/>
-<img src="https://img.icons8.com/color/480/mongodb.png" width="20px"/>
-<img src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" width="20px"/>
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="js" width="60px"/> 
+<img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="html" width="60px"/>
+<img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="css" width="60px"/>
+<img src="https://tailwindcss.com/_next/static/media/social-square.eab77323.jpg" width="60px"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="60px"/>
+<img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" width="60px"/>
+<img src="https://cdn0.iconfinder.com/data/icons/designer-skills/128/node-js-512.png" width="60px"/>
+<img src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" width="60px"/>
+<img src="https://img.icons8.com/color/480/mongodb.png" width="60px"/>
+<img src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" width="60px"/>
 
    <br></br>
- <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="50px" style="float:right"/>
- <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mapx.png" width="50px" style="float:right"/>
- <img src="https://railway.app/brand/logo-dark.png" width="50px" style="float:right"/>
+ <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="60px" />
+ <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mapx.png" width="60px"/>
+ <img src="https://railway.app/brand/logo-dark.png" width="60px" />
 <img src="https://www.jorgeagoiz.es/favicon.ico" width="50px"/>
- <img src="https://static-00.iconduck.com/assets.00/postman-icon-497x512-beb7sy75.png" width="50px"/>
+ <img src="https://static-00.iconduck.com/assets.00/postman-icon-497x512-beb7sy75.png" width="60px"/>
 <img src="https://camo.githubusercontent.com/a86a8278da4c5b5a43330e1ea28e6ba050007a837128b5dff5b35d5ff0f1248a/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f313630302f312a365867664443566e3831415958363858766432492d674032782e706e67" width="50px"/>
 
 </div>
