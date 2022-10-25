@@ -43,12 +43,20 @@
 <h4 style="font-weight:bols">ArquiHub 📐✏</h4>
 Arquihub its an application for Architects where they can store, upgrade and share their projects and posts with the community!
 This app was made with: Node | Express | Mongoose | MongoDB | React | Redux-toolkit | Tailwind  
+<br></br>
 •<a href="https://github.com/BalbianoLuciano/backend-arquihub">Link to BackEnd repository</a>
+<br></br>
 •<a href="https://github.com/Frann24/ArchiHub-Front">Link to FrontEnd repository</a>
+<br></br>
 •<a href="https://arquihub.vercel.app/">Link to Deploy </a>
-
+<br></br>
 
 <h4 style="font-weight:bold">Go! GlobeWiki(HenryCountries) 🌎 </h4>
+GlobeWiki is an SPA focused en world countried consuming the Rest API from <a href="restcountries.com">restcountries.com</a> where you cannot use the endpoints given by de url, creating filters and activities for the countries.
+This app was made with : Node | Express | Sequelize | PostgresSQL | React | Redux | CSS
+<br></br>
+<a href="https://github.com/gnz6/pi-Countries">Link to repository</a>
+<br></br>
 
 <h4 style="font-weight:bold">Bricks & Buckets 🏀📝</h4>
 Bricks & Buckets is a noteApp for basketball players to record own gamestats and have an game averarge based on the registered games
