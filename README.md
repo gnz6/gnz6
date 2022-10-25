@@ -15,7 +15,8 @@
 
 <h3 style="font-weight:bold" > 🛠 Languages and Tools: </h3>
 
-<div class="special-class" markdown="1">Lenguages;
+<div class="special-class" markdown="1">Lenguages:
+<br></br>
 <div class="special-class" markdown="2">
 • JavaScript <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="js" width="20px"/>
 </div>
@@ -33,8 +34,8 @@
 
 </div>
 <div>Tools
-• Git <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"/>
-• GitHub <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20px"/>
+• Git <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="20px"/>
+• GitHub <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mapx.png" width="20px"/>
 • Railway <img src="https://railway.app/brand/logo-dark.png" width="20px"/>
 • Vercel<img src="https://www.jorgeagoiz.es/favicon.ico" width="20px"/>
 • Postman <img src="https://static-00.iconduck.com/assets.00/postman-icon-497x512-beb7sy75.png" width="20px"/>
