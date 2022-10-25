@@ -11,9 +11,11 @@
 
 •🌱 I’m currently learning Python with Flask and Django frameworks @ Udemy.
 
+<hr></hr>
+
 <h3 style="font-weight:bold" > 🛠 Languages and Tools: </h3>
 <div>
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="js" width="20px"/>
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="js" width="50px"/>
    <p>JavaScript</p>
 </div
 
