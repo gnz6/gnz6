@@ -15,7 +15,7 @@
 
 <h3 style="font-weight:bold" > 🛠 Languages and Tools: </h3>
 
-<div class="special-class" markdown="1" width="100%">
+<div class="special-class" markdown="1"     style="word-wrap: break-word" width="100%">
 <br></br>
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="js" width="60px"/> 
 <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="html" width="60px"/>
