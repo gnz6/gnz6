@@ -35,7 +35,7 @@
    <h4 style="font-weight:bold">Tools:</h4>
 
    <br></br>
- <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="40px"/>
+ <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="40px" text="GIT"/>
  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mapx.png" width="40px"/>
  <img src="https://railway.app/brand/logo-dark.png" width="40px"/>
 • Vercel<img src="https://www.jorgeagoiz.es/favicon.ico" width="20px"/>
