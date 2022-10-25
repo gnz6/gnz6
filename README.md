@@ -79,11 +79,11 @@ This app was made with : Node | Express | Sequelize | PostgresSQL | React | Redu
 <br></br>
 Screenshots:
 <br></br>
-<img src="https://user-images.githubusercontent.com/102692082/197883890-49afabec-c5dc-4386-aaf6-f5fa5ce170b3.png" alt="screen" style="width:150px height:100px"/>
-<img src="https://user-images.githubusercontent.com/102692082/197883886-a9372590-d637-4fd3-a28b-f5d8122abea8.png" alt="screen" style="width:150px height:100px"/>
-<img src="https://user-images.githubusercontent.com/102692082/197883875-86dbb1e3-fab8-4bda-8e2f-ebe7fb1904cd.png" alt="screen" style="width:150px height:100px"/>
-<img src="https://user-images.githubusercontent.com/102692082/197883871-1fe65f9f-5e8c-4635-ae86-b051584df0c2.png" alt="screen" style="width:150px height:100px"/>
-<img src="https://user-images.githubusercontent.com/102692082/197883864-b395a69f-1cd2-4638-8111-77f7ef7e3608.png" alt="screen" style="width:150px height:100px"/>
+<img src="https://user-images.githubusercontent.com/102692082/197883890-49afabec-c5dc-4386-aaf6-f5fa5ce170b3.png" alt="screen" style="width:150px "/>
+<img src="https://user-images.githubusercontent.com/102692082/197883886-a9372590-d637-4fd3-a28b-f5d8122abea8.png" alt="screen" style="width:150px"/>
+<img src="https://user-images.githubusercontent.com/102692082/197883875-86dbb1e3-fab8-4bda-8e2f-ebe7fb1904cd.png" alt="screen" style="width:150px "/>
+<img src="https://user-images.githubusercontent.com/102692082/197883871-1fe65f9f-5e8c-4635-ae86-b051584df0c2.png" alt="screen" style="width:150px"/>
+<img src="https://user-images.githubusercontent.com/102692082/197883864-b395a69f-1cd2-4638-8111-77f7ef7e3608.png" alt="screen" style="width:150px "/>
 
 
 <a href="https://github.com/gnz6/pi-Countries">Link to repository</a>
@@ -94,8 +94,8 @@ Bricks & Buckets is a noteApp for basketball players to record own gamestats and
 This app was made with: Node | Express | Express-Handlebars | Boostrap | Passport
 <br></br>
 Screenshots:
-<img src="https://user-images.githubusercontent.com/102692082/197878622-49ce9372-e17d-4c7c-84d6-666abf3f25ee.png" alt="screen" style="width:400px"/>
-<img src="https://user-images.githubusercontent.com/102692082/197878415-ddcf341d-75d2-48c7-8a65-6fa4f78952c7.png" alt="screen" style="width:400px"/>
+<img src="https://user-images.githubusercontent.com/102692082/197878622-49ce9372-e17d-4c7c-84d6-666abf3f25ee.png" alt="screen" style="width:150px"/>
+<img src="https://user-images.githubusercontent.com/102692082/197878415-ddcf341d-75d2-48c7-8a65-6fa4f78952c7.png" alt="screen" style="width:150px"/>
 
 
 <a href="https://github.com/gnz6/Bricks-Buckets">Link to repository</a>
@@ -105,11 +105,11 @@ HenryGames is an SPA focused on videogames consuming the Rest API from <a href="
 This app was made with : Node | Express | Sequelize | PostgresSQL | React | Redux | CSS
 <br></br>
 Screenshots:
-<img src="https://user-images.githubusercontent.com/102692082/197880981-3c1a2ad3-c9fb-4e68-884b-d92ee4397996.png" alt="screen" style="width:400px"/>
-<img src="https://user-images.githubusercontent.com/102692082/197880988-ceb326aa-cc2d-4336-bd7f-4c143c0aad4f.png" alt="screen" style="width:400px"/>
-<img src="https://user-images.githubusercontent.com/102692082/197880990-43362cf5-e6e0-4e49-9f48-75b26ea30365.png" alt="screen" style="width:400px"/>
-<img src="https://user-images.githubusercontent.com/102692082/197880996-695e0aba-8bca-4497-a069-e01427b2fd56.png" alt="screen" style="width:400px"/>
-<img src="https://user-images.githubusercontent.com/102692082/197880998-bb31520c-60ec-4fbd-937d-2249e67bbccf.png" alt="screen" style="width:400px"/>
+<img src="https://user-images.githubusercontent.com/102692082/197880981-3c1a2ad3-c9fb-4e68-884b-d92ee4397996.png" alt="screen" style="width:150px"/>
+<img src="https://user-images.githubusercontent.com/102692082/197880988-ceb326aa-cc2d-4336-bd7f-4c143c0aad4f.png" alt="screen" style="width:150px"/>
+<img src="https://user-images.githubusercontent.com/102692082/197880990-43362cf5-e6e0-4e49-9f48-75b26ea30365.png" alt="screen" style="width:150px"/>
+<img src="https://user-images.githubusercontent.com/102692082/197880996-695e0aba-8bca-4497-a069-e01427b2fd56.png" alt="screen" style="width:150px"/>
+<img src="https://user-images.githubusercontent.com/102692082/197880998-bb31520c-60ec-4fbd-937d-2249e67bbccf.png" alt="screen" style="width:150px"/>
 
 <a href="https://github.com/gnz6/pi">Link to repository</a>
 <br></br>
