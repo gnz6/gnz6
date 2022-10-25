@@ -18,50 +18,24 @@
 <div class="special-class" markdown="1">
    • JavaScript <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="js" width="20px"/>
    
-   <div class="special-class" markdown="1">
-<img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="html" width="50px"/>
-   <p>HTML5</p>
-   </div>
+   • HTML 5<img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="html" width="20px"/>
 
-<div>
-<img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="css" width="50px"/>
-   <p>CSS3</p>
-</div>
+   • CSS3 <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="css" width="20px"/>
 
-<div>
-<img src="https://tailwindcss.com/_next/static/media/social-square.eab77323.jpg" width="50px"/>
-   <p>Tailwind</p>
-</div>
+• Tailwind <img src="https://tailwindcss.com/_next/static/media/social-square.eab77323.jpg" width="20px"/>
 
-<div>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="50px"/>
-   <p>React </p>
-</div>
+• React <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="20px"/>
 
-<div>
-<img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" width="50px"/>
-   <p>Redux</p>
-</div>
+• Redux <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" width="20px"/>
 
-<div>
-<img src="https://cdn0.iconfinder.com/data/icons/designer-skills/128/node-js-512.png" width="50px"/>
+• Node<img src="https://cdn0.iconfinder.com/data/icons/designer-skills/128/node-js-512.png" width="20px"/>
    <p>Node </p>
-</div>
 
-<div>
-<img src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" width="50px"/>
-   <p>Express </p>
-</div>
+• Express <img src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" width="20px"/>
 
-<div>
-<img src="https://img.icons8.com/color/480/mongodb.png" width="50px"/>
-   <p>Mongo </p>
-</div>
+• MongoDB<img src="https://img.icons8.com/color/480/mongodb.png" width="20px"/>
 
-<div>
-<img src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" width="50px"/>
-   <p>PostgresSQL </p>
-</div>
+• PostgresSQL<img src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" width="20px"/>
 
 </div>
 
