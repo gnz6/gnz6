@@ -16,23 +16,17 @@
 <h3 style="font-weight:bold" > 🛠 Languages and Tools: </h3>
 
 <div class="special-class" markdown="1">
-<h4 style="font-weight:bold">Lenguages:</h4>
 <br></br>
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="js" width="30px"/> JavaScript -
 <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="html" width="30px"/> Html -
-• CSS3 <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="css" width="20px"/>
-• Tailwind <img src="https://tailwindcss.com/_next/static/media/social-square.eab77323.jpg" width="20px"/>
-• React <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="20px"/>
-• Redux <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" width="20px"/>
-• Node<img src="https://cdn0.iconfinder.com/data/icons/designer-skills/128/node-js-512.png" width="20px"/>
-• Express <img src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" width="20px"/>
-• MongoDB<img src="https://img.icons8.com/color/480/mongodb.png" width="20px"/>
-• PostgresSQL<img src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" width="20px"/>
-
-</div>
-<br></br>
-<div style="align-center">
-   <h4 style="font-weight:bold">Tools:</h4>
+<img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="css" width="20px"/>
+<img src="https://tailwindcss.com/_next/static/media/social-square.eab77323.jpg" width="20px"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="20px"/>
+<img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" width="20px"/>
+<img src="https://cdn0.iconfinder.com/data/icons/designer-skills/128/node-js-512.png" width="20px"/>
+<img src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" width="20px"/>
+<img src="https://img.icons8.com/color/480/mongodb.png" width="20px"/>
+<img src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" width="20px"/>
 
    <br></br>
  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="50px" style="float:right"/>
