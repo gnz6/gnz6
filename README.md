@@ -72,6 +72,10 @@ This app was made with : Node | Express | Sequelize | PostgresSQL | React | Redu
 Bricks & Buckets is a noteApp for basketball players to record own gamestats and have an game averarge based on the registered games
 This app was made with: Node | Express | Express-Handlebars | Boostrap | Passport
 <br></br>
+Screenshots:
+<img src="https://user-images.githubusercontent.com/102692082/197878622-49ce9372-e17d-4c7c-84d6-666abf3f25ee.png" alt="screen" width:"50%"/>
+
+
 <a href="https://github.com/gnz6/Bricks-Buckets">Link to repository</a>
 <br></br>
 <h4 style="font-weight:bold">• Henry Games 🎮🕹</h4>
