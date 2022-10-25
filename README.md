@@ -25,9 +25,16 @@
 </div>
 
 <div>
-<img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="html" width="50px"/>
+<img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="css" width="50px"/>
    <p>CSS3</p>
 </div>
+
+<div>
+<img src="[https://cdn-icons-png.flaticon.com/512/732/732190.png](https://tailwindcss.com/_next/static/media/social-square.eab77323.jpg
+)" alt="tailwind" width="50px"/>
+   <p>Tailwind CSS</p>
+</div>
+
 
 
 <hr></hr>
