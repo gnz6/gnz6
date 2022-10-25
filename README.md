@@ -1,15 +1,5 @@
-###
-<h2>Hello there!  <img src="https://emojis.slackmojis.com/emojis/images/1482947228/1532/lightsaber.png" alt="ligthsaber" width="25px"/> </h2>
-<!--
-**gnz6/gnz6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###<h2>Hello there!  <img src="https://emojis.slackmojis.com/emojis/images/1482947228/1532/lightsaber.png" alt="ligthsaber" width="25px"/> </h2>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <hr></hr>
 <h3 align="center">Hi! my name is Gonzalo Pirovano, and currently i am looking for my first job as a FullStack Developer💻</h3>
  • Currently i am looking for my first job as a FullStack Developer 💻
