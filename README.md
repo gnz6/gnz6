@@ -39,14 +39,24 @@
 
 <hr></hr>
 <h3 style="font-weight:bold">📌My Projects:</h3>
+
 <h4 style="font-weight:bols">ArquiHub 📐✏</h4>
-<h4 style="font-weight:bols">Go! GlobeWiki(HenryCountries) 🌎 </h4>
-<h4 style="font-weight:bols">Bricks & Buckets 🏀📝</h4>
+Arquihub its an application for Architects where they can store, upgrade and share their projects and posts with the community!
+This app was made with: Node | Express | Mongoose | MongoDB | React | Redux-toolkit | Tailwind  
+•<a href="https://github.com/BalbianoLuciano/backend-arquihub">Link to BackEnd repository</a>
+•<a href="https://github.com/Frann24/ArchiHub-Front">Link to FrontEnd repository</a>
+•<a href="https://arquihub.vercel.app/">Link to Deploy </a>
+
+
+<h4 style="font-weight:bold">Go! GlobeWiki(HenryCountries) 🌎 </h4>
+
+<h4 style="font-weight:bold">Bricks & Buckets 🏀📝</h4>
 Bricks & Buckets is a noteApp for basketball players to record own gamestats and have an game averarge based on the registered games
 This app was made with: Node | Express | Express-Handlebars | Boostrap | Passport
+<br></br>
 <a href="https://github.com/gnz6/Bricks-Buckets">Link to repository</a>
 <br></br>
-<h4 style="font-weight:bols">Wheather App 🌥🌩❄🌤</h4>
+<h4 style="font-weight:bold">Wheather App 🌥🌩❄🌤</h4>
 
 
 <hr></hr>
