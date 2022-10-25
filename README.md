@@ -1,6 +1,6 @@
 <h2 align="center">Hello there! <img src="https://emojis.slackmojis.com/emojis/images/1482947228/1532/lightsaber.png" alt="ligthsaber" width="25px"/>  </h2>
 
-<img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="banner" height="500px"/>
+<img align="center" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="banner" height="500px"/>
 <h2 align="center">Hi! my name is <a href="https://www.linkedin.com/in/gonzalo-pirovano/">Gonzalo Pirovano</a>, and i am a FullStack Developer from Argentina 💻</h2>
 
 <h3 style="font-weight:bold"> About Me 👀</h3>
