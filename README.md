@@ -22,5 +22,5 @@ Contact 📫
   <div style="display:flex">
     •  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/2560px-Gmail_Icon_%282013-2020%29.svg.png" alt="gmailIcon" width="50px"/> <h4 style="bold">gonzalopirovano1@gmail.com </h4>
   </div>
-  <div class="button" onclick="location.href='mailto:gonzalopirovano1@gmail.com';">Send E-Mail</div>
+  <div class="mailto" href="mailto:gonzalopirovano1@gmail.com">Send E-Mail</div>
 </div>
