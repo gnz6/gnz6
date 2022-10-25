@@ -38,8 +38,16 @@
 </div>
 
 <hr></hr>
+<h3 style="font-weight:bold">📌My Projects:</h3>
+<h4 style="font-weight:bols">ArquiHub 📐✏</h4>
+<h4 style="font-weight:bols">Go! GlobeWiki(HenryCountries) 🌎 </h4>
+<h4 style="font-weight:bols">Bricks & Buckets 🏀📝</h4>
+<h4 style="font-weight:bols">Wheather App 🌥🌩❄🌤</h4>
 
-<h3 style="font-weight:bold"> Contact 📫</h3>
+
+<hr></hr>
+
+<h3 style="font-weight:bold">📫 Contact:</h3>
 
 <div style="display:box">
    <a href="mailto:gonzalopirovano1@gmail.com"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/1280px-Gmail_Icon_%282013-2020%29.svg.png" alt="gmailIcon" width="25px"> gonzalopirovano1@gmail.com</a> 
