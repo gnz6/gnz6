@@ -1,15 +1,15 @@
 <h2 align="center">Hello there! <img src="https://emojis.slackmojis.com/emojis/images/1482947228/1532/lightsaber.png" alt="ligthsaber" width="25px"/>  </h2>
 
-<img align="center" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="banner" height="500px"/>
+<img align="center" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="banner" width="100%"/>
 <h2 align="center">Hi! my name is <a href="https://www.linkedin.com/in/gonzalo-pirovano/">Gonzalo Pirovano</a>, and i am a FullStack Developer from Argentina 💻</h2>
 
-<h3 style="font-weight:bold"> About Me 👀</h3>
+<h3 style="font-weight:bold"> 👀 About Me: </h3>
 
-🎈 First things first, right now i´m looking for my first job as a Fullstack Web Developer, in the meanwhile:
+• 🎈 First things first, right now i´m looking for my first job as a Fullstack Web Developer, in the meanwhile:
 
-•🔭 I’m currently working on my Portfolio and finishing up some other projects. I am using React and Tailwind css to create it. My projects will soon me deployed on vercel, but for now they will be linked to my github repos.
+• 🔭 I’m currently working on my Portfolio and finishing up some other projects. I am using React and Tailwind css to create it. My projects will soon me deployed on vercel, but for now they will be linked to my github repos.
 
-•🌱 I’m currently learning Python with Flask and Django frameworks @ Udemy.
+• 🌱 I’m currently learning Python with Flask and Django frameworks @ Udemy.
 
 <hr></hr>
 
@@ -31,11 +31,13 @@
 
 </div>
 <br></br>
-<div>Tools
+<div>
+   <h4 style="font-weight:bold">Tools:</h4>
+
    <br></br>
-• Git <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="20px"/>
-• GitHub <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mapx.png" width="20px"/>
-• Railway <img src="https://railway.app/brand/logo-dark.png" width="20px"/>
+ <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="40px"/>
+ <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mapx.png" width="40px"/>
+ <img src="https://railway.app/brand/logo-dark.png" width="40px"/>
 • Vercel<img src="https://www.jorgeagoiz.es/favicon.ico" width="20px"/>
 • Postman <img src="https://static-00.iconduck.com/assets.00/postman-icon-497x512-beb7sy75.png" width="20px"/>
 • Figma <img src="https://camo.githubusercontent.com/a86a8278da4c5b5a43330e1ea28e6ba050007a837128b5dff5b35d5ff0f1248a/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f313630302f312a365867664443566e3831415958363858766432492d674032782e706e67" width="20px"/>
