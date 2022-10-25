@@ -13,7 +13,7 @@
 
 <h3 style="font-weight:bold" > 🛠 Languages and Tools: </h3>
 <div>
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="js"/>
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="js" width="20px"/>
    <p>JavaScript</p>
 </div
 
