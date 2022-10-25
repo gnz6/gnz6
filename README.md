@@ -57,7 +57,7 @@ Arquihub Team :
 
 Screenshots:
 <br></br>
-<img src="https://user-images.githubusercontent.com/102692082/197881745-bad6f0d8-a542-4e0c-a020-c63a50660161.jpeg" alt="screen" style="heigth:200px"/>
+<img src="https://user-images.githubusercontent.com/102692082/197881745-bad6f0d8-a542-4e0c-a020-c63a50660161.jpeg" alt="screen" style="width:100px"/>
 <img src="https://user-images.githubusercontent.com/102692082/197881752-b7453800-0b93-4228-b98c-75b171172193.jpeg" alt="screen" style="width:400px"/>
 <img src="https://user-images.githubusercontent.com/102692082/197881747-043a922f-8385-4424-8073-ce6b4190c84c.jpeg" alt="screen" style="width:400px"/>
 <img src="https://user-images.githubusercontent.com/102692082/197881748-9a46b939-00fe-4a8d-a78b-0c9acbe41071.jpeg" alt="screen" style="width:400px"/>
