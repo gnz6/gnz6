@@ -76,6 +76,8 @@ This app was made with : Node | Express | Sequelize | PostgresSQL | React | Redu
 <h3 style="font-weight:bold">📫 Contact:</h3>
 
 <div style="display:box">
-   <a href="mailto:gonzalopirovano1@gmail.com"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/1280px-Gmail_Icon_%282013-2020%29.svg.png" alt="gmailIcon" width="25px"> gonzalopirovano1@gmail.com</a> 
-   <a href="https://www.linkedin.com/in/gonzalo-pirovano/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" alt="linkedinIcon" width="25px"> LinkedIn</a>
+   <a href="mailto:gonzalopirovano1@gmail.com"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/1280px-Gmail_Icon_%282013-2020%29.svg.png" alt="gmailIcon" width="30px"> gonzalopirovano1@gmail.com</a> 
+  <br></br>
+
+ <a href="https://www.linkedin.com/in/gonzalo-pirovano/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" alt="linkedinIcon" width="30px"> LinkedIn</a>
 </div>
