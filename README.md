@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Contact 📫
-<div>
+<div style="display:flex">
 <div style="display:flex">
   •  <a href="https://www.linkedin.com/in/gonzalo-pirovano/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" alt="linkedinIcon" width="50px"> <p> LinkdedIn</p> </a>
   </div>
   <div style="display:flex">
-  •  <img src="https://openclipart.org/image/800px/216530" alt="gmailIcon" width="50px"> <p> Gmail : gonzalopirovano1@gmail.com </p> 
+  •  <img src="https://openclipart.org/image/800px/216530" alt="gmailIcon" width="50px"> <p> Gmail : <mailto: ,[gonzalopirovano1@gmail.com](gonzalopirovano1@gmail.com) </p> 
   </div>
 </div>
