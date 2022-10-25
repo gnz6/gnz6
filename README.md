@@ -14,7 +14,8 @@
 <hr></hr>
 
 <h3 style="font-weight:bold" > 🛠 Languages and Tools: </h3>
-<div float="right">
+
+<div class="tip" markdown="1">
    
    <div>
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="js" width="50px"/>
