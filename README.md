@@ -73,8 +73,8 @@ Bricks & Buckets is a noteApp for basketball players to record own gamestats and
 This app was made with: Node | Express | Express-Handlebars | Boostrap | Passport
 <br></br>
 Screenshots:
-<img src="https://user-images.githubusercontent.com/102692082/197878622-49ce9372-e17d-4c7c-84d6-666abf3f25ee.png" alt="screen" style="width:200px"/>
-<img src="https://user-images.githubusercontent.com/102692082/197878415-ddcf341d-75d2-48c7-8a65-6fa4f78952c7.png" alt="screen" width:"200px"/>
+<img src="https://user-images.githubusercontent.com/102692082/197878622-49ce9372-e17d-4c7c-84d6-666abf3f25ee.png" alt="screen" style="width:500px"/>
+<img src="https://user-images.githubusercontent.com/102692082/197878415-ddcf341d-75d2-48c7-8a65-6fa4f78952c7.png" alt="screen" style="width:500px"/>
 
 
 <a href="https://github.com/gnz6/Bricks-Buckets">Link to repository</a>
