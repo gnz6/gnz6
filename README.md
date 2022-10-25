@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 Contact 📫
 <div>
-<div display="flex">
+<div style="display:flex">
   •  <a href="https://www.linkedin.com/in/gonzalo-pirovano/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" alt="linkedinIcon" width="50px"> <p> LinkdedIn</p> </a>
   </div>
-  <div>
-  •  <img src="[[https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png](https://cdn-icons-png.flaticon.com/512/281/281769.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Circle-icons-mail.svg/2048px-Circle-icons-mail.svg.png)" alt="gmailIcon" width="50px"> <p> Gmail : gonzalopirovano1@gmail.com </p> 
+  <div style="display:flex">
+  •  <img src="https://openclipart.org/image/800px/216530" alt="gmailIcon" width="50px"> <p> Gmail : gonzalopirovano1@gmail.com </p> 
   </div>
 </div>
