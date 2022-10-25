@@ -14,14 +14,17 @@
 <hr></hr>
 
 <h3 style="font-weight:bold" > 🛠 Languages and Tools: </h3>
-
+<div float="right">
+   
+   <div>
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="js" width="50px"/>
    <p>JavaScript</p>
-
-
+   </div>
+   
+   <div>
 <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="html" width="50px"/>
    <p>HTML5</p>
-
+   </div>
 
 <div>
 <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="css" width="50px"/>
@@ -63,7 +66,7 @@
    <p>PostgresSQL </p>
 </div>
 
-
+</div
 
 <hr></hr>
 
