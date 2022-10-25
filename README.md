@@ -1,8 +1,8 @@
-<h2>Hello there!  <img src="https://emojis.slackmojis.com/emojis/images/1482947228/1532/lightsaber.png" alt="ligthsaber" width="25px"/> </h2>
+<h2>Hello there! 👋 <img src="https://emojis.slackmojis.com/emojis/images/1482947228/1532/lightsaber.png" alt="ligthsaber" width="25px"/> </h2>
 
 <hr></hr>
-<h3 align="center">Hi! my name is Gonzalo Pirovano, and currently i am looking for my first job as a FullStack Developer💻</h3>
- • Currently i am looking for my first job as a FullStack Developer 💻
+<h4 align="center">Hi! my name is Gonzalo Pirovano, and currently i am looking for my first job as a FullStack Developer💻</h4>
+
 <h3 style="font-weight:bold"> • About Me 👀</h3>
 
 <h3 style="font-weight:bold"> • Contact 📫</h3>
