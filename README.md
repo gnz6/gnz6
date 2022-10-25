@@ -30,10 +30,14 @@
 </div>
 
 <div>
-<img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="tailwind" width="50px"/>
+<img src="https://tailwindcss.com/_next/static/media/social-square.eab77323.jpg" width="50px"/>
    <p>Tailwind CSS</p>
 </div>
 
+<div>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="50px"/>
+   <p>React Js</p>
+</div>
 
 
 <hr></hr>
