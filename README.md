@@ -1,7 +1,7 @@
 <h2>Hello there! <img src="https://emojis.slackmojis.com/emojis/images/1482947228/1532/lightsaber.png" alt="ligthsaber" width="25px"/> </h2>
 
 <hr></hr>
-<h4 align="center">Hi! my name is <a href="https://www.linkedin.com/in/gonzalo-pirovano/">Gonzalo Pirovano</a>, and i am a FullStack Developer from Argentina 💻</h4>
+<h2 align="center">Hi! my name is <a href="https://www.linkedin.com/in/gonzalo-pirovano/">Gonzalo Pirovano</a>, and i am a FullStack Developer from Argentina 💻</h2>
 
 <h3 style="font-weight:bold"> About Me 👀</h3>
 
@@ -30,8 +30,7 @@
 </div>
 
 <div>
-<img src="[https://cdn-icons-png.flaticon.com/512/732/732190.png](https://tailwindcss.com/_next/static/media/social-square.eab77323.jpg
-)" alt="tailwind" width="50px"/>
+<img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="tailwind" width="50px"/>
    <p>Tailwind CSS</p>
 </div>
 
