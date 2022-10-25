@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Contact 📫
+<div>
+<div>
+  •  <a href="https://www.linkedin.com/in/gonzalo-pirovano/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" alt="linkedinIcon" width="200px"> <p> LinkdedIn</p> </a>
+  </div>
+  <div>
+  •  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" alt="gmailIcon" width="200px"> <p> Gmail : gonzalopirovano1@gmail.com </p> 
+  </div>
+</div>
