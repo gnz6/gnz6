@@ -17,8 +17,8 @@
 
 <div class="special-class" markdown="1">Lenguages:
 <br></br>
-||JavaScript<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="js" width="20px"/>
-||Html<img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="html" width="20px"/>
+• JavaScript <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="js" width="20px"/>
+• Html <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="html" width="20px"/>
 • CSS3 <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="css" width="20px"/>
 • Tailwind <img src="https://tailwindcss.com/_next/static/media/social-square.eab77323.jpg" width="20px"/>
 • React <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="20px"/>
@@ -29,7 +29,9 @@
 • PostgresSQL<img src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" width="20px"/>
 
 </div>
+<br></br>
 <div>Tools
+   <br></br>
 • Git <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="20px"/>
 • GitHub <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mapx.png" width="20px"/>
 • Railway <img src="https://railway.app/brand/logo-dark.png" width="20px"/>
